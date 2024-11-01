@@ -1,6 +1,6 @@
 <!--## Hi there 👋-->
 # About Me:<br>
-- Passionate Software Developer looking forward to work in healthcare or medtech<br>
+- Passionate software developer looking forward to work in Healthcare or Med-tech<br>
 - Studying cs<br> <!--- Studying IoT  @NITKKR, India<br>-->
 - Math enthusiast<br>
 - Currently learning python and c++<br>
