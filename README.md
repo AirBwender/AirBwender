@@ -1,4 +1,7 @@
 <!--## Hi there 👋-->
+
+I like experimenting with new technologies, building small projects, and occassionally doing competitive coding or joining hackathons!
+
 # About Me:<br>
 - Passionate software developer looking forward to work in Healthcare or Med-tech<br>
 - Studying cs<br> <!--- Studying IoT  @NITKKR, India<br>-->
