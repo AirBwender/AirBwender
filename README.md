@@ -1,5 +1,5 @@
 <!--## Hi there 👋-->
-<img src="/GithubProfile.png" alt="Hero image" width="1042" height="154"> 
+<img src="/profileintro.png" alt="Hero image" width="1042" height="154"> 
 <!--521x77-->
 I like experimenting with new technologies, building small projects, and occassionally doing competitive coding or joining hackathons!
 
