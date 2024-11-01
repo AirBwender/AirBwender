@@ -1,8 +1,7 @@
 <!--## Hi there 👋-->
 # About Me:<br>
 - Passionate Software Developer interested in healthcare <br>
-<!--- Studying IoT  @NITKKR, India<br>-->
-- Studying cs<br>
+- Studying cs<br> <!--- Studying IoT  @NITKKR, India<br>-->
 - Math enthusiast<br>
 - Currently learning python and c++<br>
 - Interested in learning Machine Learning, Blockchain and Cloud<br>
