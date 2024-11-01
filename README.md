@@ -1,5 +1,5 @@
 <!--## Hi there 👋-->
-
+<img src="AirBwender/GithubProfile.png" alt="Hero image">
 I like experimenting with new technologies, building small projects, and occassionally doing competitive coding or joining hackathons!
 
 # About Me:<br>
