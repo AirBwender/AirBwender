@@ -1,5 +1,5 @@
 <!--## Hi there 👋-->
-<img src="/profileintro.png" alt="Hero image" width="1140" height="260"> 
+<img src="/profileintro.png" alt="Hero image" width="1140" height="220"> 
 <!--521x77-->
 I like experimenting with new technologies, building small projects, and occassionally doing competitive coding or joining hackathons!
 
