@@ -1,4 +1,6 @@
-<img src="/genos.png" alt="Hero image" width="1012" height="569">
+<img src="/genos.png" alt="Hero image" width="100%">
+
+
 Youcouldwatchmepulluponyourbody
 
 Likeitssummertakemyclothesoff
