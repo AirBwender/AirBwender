@@ -1,14 +1,2 @@
-<img src="/genos.png" alt="Hero image" width="100%">
-
-
-Youcouldwatchmepulluponyourbody
-
-Likeitssummertakemyclothesoff
-
-Inthewatersplasharoundandgetyoublessedlikeholywater
-
-Idontknowwhatyouwerewaitingfor
-
-Youknowthativebeenwaitingforyou
-
-I only threw this party for you
+Hello there! 
+I'm the Goat and, I hope you realize that the world revolves around me before it's too late <33
